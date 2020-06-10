@@ -1515,6 +1515,9 @@ pre .javascript .function {
   font-size: 14px;
   margin-top: 2px;
 }
+.post-wordcount {
+  display: inline-block;
+}
 .post-meta-divider {
   margin: 0 0.5em;
 }
@@ -1852,7 +1855,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffffcd;
+  background: #599d2e;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2975,4 +2978,12 @@ hr {
     width: auto;
     text-align: center;
   }
+}
+.post-body a:not(.btn) {
+  color: #0023a5;
+  border-bottom: none;
+}
+.post-body a:not(.btn):hover {
+  color: #0593d3;
+  text-decoration: underline;
 }
