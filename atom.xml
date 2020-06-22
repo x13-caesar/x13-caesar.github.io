@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jingtaixiongmeng.com/"/>
-  <updated>2020-06-22T07:31:37.854Z</updated>
+  <updated>2020-06-22T07:56:00.553Z</updated>
   <id>http://jingtaixiongmeng.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Integrity</title>
+    <title>Accessibility v.s. Integrity</title>
     <link href="http://jingtaixiongmeng.com/posts/undefined/"/>
     <id>http://jingtaixiongmeng.com/posts/undefined/</id>
     <published>2020-06-22T07:06:38.000Z</published>
-    <updated>2020-06-22T07:31:37.854Z</updated>
+    <updated>2020-06-22T07:56:00.553Z</updated>
     
     <content type="html"><![CDATA[<p>看到@chenchenzh 晒出她对豆瓣听众的<a href="https://twitter.com/chenchenzh/status/1274796035169300483?s=20" target="_blank" rel="noopener">回复</a>，前后文大体如下：</p><blockquote><p>[读者] luna:<br>几位老师也看得出严格的训练和有触感的问题意识。但可能限于沙龙体裁，有一些当代中国的问题并未渐次展开……（略）……当然，有的话题可能大家都明白，只是不好点出。</p><p>[作者] dustelle:<br>你说的很对，有一些点在（下）会提到，有一些剪掉了因为希望可以保持平台在国内的accessibility. 关于冷战时期的工具式的反种族主义……</p></blockquote><p>为了保持在特定区域的 accessibility 而「修订」自己的产品，已经是内容生产者（甚至工具提供者）日常所需要做出的让步，在2020年仍谈这个话题确实有些 cliche 了，但却不得不一谈再谈。</p><p>审查制度下原生的创作者自不必说，绝大多数都已发展出相当强大的自我审查习惯，来适应环境。而看似强势的舶来者，如Apple, 也在诸如 App Store 应用下架等问题上一再让步，以谋求继续提供服务的机会。还要有 Google 这样的「飞去来器」，早前为保全 integrity 而被中国政府拒之门外，后又再度通过<a href="[https://zh.wikipedia.org/wiki/%E8%9C%BB%E8%9C%93%E8%A8%88%E7%95%AB](https://zh.wikipedia.org/wiki/蜻蜓計畫)">自我阉割</a>来谋求重新进入该市场。围绕 accessibility 而做的挣扎与交换，并非只关于 integrity, 但却必然包括 integrity. 它是这里的「起步价」。</p><p>Accessibility or Integrity? 这似乎是个永恒的争论，即便抛开商业利益不谈，Google 高层也认为提供残缺的优秀搜索比什么没有要好，环球影业必定也觉得删去部分情节的《绿皮书》远比《前任2》要有看头。我不否认这种观点，对受众而言，这是 1 或 0 的问题，开不了门那便先找扇窗户远眺，何错之有？</p><p>但从创作者本身的角度就是另一回事。不少人将这样的妥协称作「戴着镣铐跳舞」，但是戴上镣铐，是否能再脱下来，就非受制之人意志了。换言之，Integrity 从来都没有「修补」的可能，一失永失。戴上了镣铐的表演，就成了新的镣铐本身，舞者跳得越是起劲，就越是在强化自己所受限制的正义性，以至于反抗限制的挣扎，也成为表演的一部分。</p><p>因此，为 accessibility 出卖 integrity 的创作者们，必须承担一个事实：对前者的拥有注定是临时的，但后者一经售出，将永世不可赎回。</p>]]></content>
     
